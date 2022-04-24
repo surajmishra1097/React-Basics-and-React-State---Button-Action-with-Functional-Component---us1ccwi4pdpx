@@ -3,7 +3,7 @@ import "./../styles/App.css";
 
 function App() {
   
-  const App = () => {
+//   const App = () => {
   const [showPara, setShowPara] = useState(false);
     
   return (
